@@ -1,12 +1,15 @@
 # Micropython
+
 ==============
-Code for PICOW
+#Code for PICOW
 ==============
 
 ==============
-Projects
+#Projects
 ==============
-1. Make a temperature station weather clock using Raspberry PICO-Wireless micro-controller : oled_clock.py
+# 1. Wireless Temperature weather station clock
+
+Make a temperature station weather clock using Raspberry PICO-Wireless micro-controller : oled_clock.py
 
 
 
