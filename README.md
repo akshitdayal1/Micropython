@@ -2,6 +2,11 @@
 
 Code for PICOW
 
+Make a temperature station weather clock using Raspberry PICO-Wireless micro-controller
+
+oled.py
+
+
 Notes:
 secrets.py file is local. Make your own with the following format
 
