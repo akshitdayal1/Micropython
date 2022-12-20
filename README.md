@@ -1,12 +1,10 @@
 # Micropython
 
-==============
-#Code for PICOW
-==============
 
-==============
+
+
 #Projects
-==============
+
 # 1. Wireless Temperature weather station clock
 
 Make a temperature station weather clock using Raspberry PICO-Wireless micro-controller : oled_clock.py
